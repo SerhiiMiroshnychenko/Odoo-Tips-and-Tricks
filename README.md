@@ -14,3 +14,6 @@ Repository for hosting `Odoo Tips and Tricks`
 4. `env.is_superuser()`
    ![is_superuser](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/ceea504e-5d53-49bd-99f9-7d795b3b33b5)
 
+5. `env.is_admin()`
+   ![env_is_admin](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/a51a2dee-3762-4ef2-86c9-fe9635aa38a7)
+
