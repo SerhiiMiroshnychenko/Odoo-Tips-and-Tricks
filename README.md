@@ -20,3 +20,7 @@ Repository for hosting `Odoo Tips and Tricks`
 6. `env.is_system()`
    ![env_is_system](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/132a66ee-6c78-4bfa-be98-18f2a2bcf669)
 
+7. `with_context`
+   ![with_context](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/e5dde5ba-502e-4716-82b5-f9149031853b)
+
+
