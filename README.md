@@ -34,6 +34,10 @@ Repository for hosting `Odoo Tips and Tricks`
     
     ![sudo](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/c618bea4-b1fe-43a9-a4ef-bd5b1de1f76c)
 
+12. `Command`
+
+    ![photo_5370707083407775366_y](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/9fc5cefb-d58c-4154-9312-2c1931298857)
+
    
 
 
