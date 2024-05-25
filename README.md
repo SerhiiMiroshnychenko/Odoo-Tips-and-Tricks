@@ -26,5 +26,10 @@ Repository for hosting `Odoo Tips and Tricks`
 8. `with_user`
    ![with_user](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/3eb09a26-cf6a-4123-a2b2-6a18a774d8bc)
 
+9. `with_company`
+    ![with_company](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/8f77c95e-24a1-431d-949c-922d6908e8e9)
+   
+
+
 
 
