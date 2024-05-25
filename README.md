@@ -40,9 +40,7 @@ Repository for hosting `Odoo Tips and Tricks`
     ![photo_5370707083407775367_y](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/7d0b59e2-bcbd-433b-bbe9-0095915a9fd2)
     ![photo_5370707083407775368_y](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/be4269cf-07c2-4952-90bd-8f877dbbd198)
     ![photo_5370707083407775369_y](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/6b6b0b23-57f7-41ab-8cd5-8e9fb44a228f)
-
-
-
+    ![photo_5370707083407775370_y](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/81543865-bbe3-4cad-8ece-f9f740340bff)
 
    
 
