@@ -48,6 +48,7 @@ Repository for hosting `Odoo Tips and Tricks`
     ![image](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/62560715-3631-41ce-aa56-4d7cc9f12658)
 
 14. `date_utils`
+    
     `add`
 
     ![IMG_20240603_104628](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/79d77e49-7d3b-4f84-94a3-5859f22cf79b)
