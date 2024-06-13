@@ -52,3 +52,7 @@ Repository for hosting `Odoo Tips and Tricks`
     `add`
 
     ![IMG_20240603_104628](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/79d77e49-7d3b-4f84-94a3-5859f22cf79b)
+
+    `subtract`
+
+    ![1000036496](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/f72cc6e3-aec9-41e6-9e79-f2c9fc4cc0a4)
