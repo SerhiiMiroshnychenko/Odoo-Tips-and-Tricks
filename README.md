@@ -58,7 +58,8 @@ Repository for hosting `Odoo Tips and Tricks`
     ![1000036496](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/f72cc6e3-aec9-41e6-9e79-f2c9fc4cc0a4)
 
 15. Заміна праоля користувачу (не собі, тут я OdooBot)
-    
+    ![Знімок екрана 2025-06-02 132046](https://github.com/user-attachments/assets/453a3fa5-c5b9-4fc1-be80-6dee0b4e996c)
+
 
 
 
