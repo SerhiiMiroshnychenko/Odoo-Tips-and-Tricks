@@ -56,3 +56,8 @@ Repository for hosting `Odoo Tips and Tricks`
     `subtract`
 
     ![1000036496](https://github.com/SerhiiMiroshnychenko/Odoo-Tips-and-Tricks/assets/113379599/f72cc6e3-aec9-41e6-9e79-f2c9fc4cc0a4)
+
+15. Заміна праоля користувачу (не собі, тут я OdooBot)
+    ![image](https://github.com/user-attachments/assets/fbf35b65-b56b-4f23-adad-65a26d5b656f)
+    ![image](https://github.com/user-attachments/assets/25f7846d-b7a5-459b-b165-3b2f43ec4e91)
+
