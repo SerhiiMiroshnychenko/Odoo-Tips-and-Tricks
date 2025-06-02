@@ -59,6 +59,6 @@ Repository for hosting `Odoo Tips and Tricks`
 
 15. Заміна праоля користувачу (не собі, тут я OdooBot)
     
-![image](https://github.com/user-attachments/assets/f2a22171-6e5b-41a4-85b8-fffeaa4af46e)
+
 
 
