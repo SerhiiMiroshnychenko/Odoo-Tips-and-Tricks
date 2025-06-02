@@ -59,6 +59,16 @@ Repository for hosting `Odoo Tips and Tricks`
 
 15. Заміна праоля користувачу (не собі, тут я OdooBot)
     ![Знімок екрана 2025-06-02 132046](https://github.com/user-attachments/assets/453a3fa5-c5b9-4fc1-be80-6dee0b4e996c)
+    ```python
+    user = self.env.user
+    print(user.name, user.login)
+    admin = env['res.users'].sudo().search([('login', '=', 'admin')], limit=1)
+    print(f"Login: {admin.login}, Active: {admin.active}, ID: {admin.id}")
+    ctx = env['res.users']._crypt_context()
+    hashed = ctx.hash('написати пароль тут')
+    env.cr.execute("UPDATE res_users SET password=%s WHERE id=%s", (hashed, admin.id))
+    env.cr.commit()
+    ```
 
 
 
