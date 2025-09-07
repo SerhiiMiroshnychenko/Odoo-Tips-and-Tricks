@@ -70,6 +70,12 @@ Repository for hosting `Odoo Tips and Tricks`
     env.cr.commit()
     ```
 
+16. Реал-тайм сповіщення 
+```python
+self.env["bus.bus"]._sendone(self.env.user.partner_id, "customer channel", {"message": "New customer created: JD"})
+```
+
+
 
 
 
